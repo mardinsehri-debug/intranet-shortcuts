@@ -1,0 +1,52 @@
+[
+    {
+        icon iconsicon1.png,
+        text Yeni EBYS Yazışma, E-imza,
+        link httpsebysweb.belediye.gov.tr
+    },
+    {
+        icon iconsicon2.png,
+        text Kurumsal Mail,
+        link httpsmail.kurumsaleposta.com
+    },
+    {
+        icon iconsicon3.png,
+        text Canlı Belediye Mali Modüller,
+        link httpscanli.belediye.gov.tr
+    },
+    {
+        icon iconsicon4.png,
+        text EBYS Temizleme,
+        link httpsebysweb.belediye.gov.trauthlogin
+    },
+    {
+        icon iconsicon5.png,
+        text ARKsigner eimza için gerekli,
+        link httpsdownloads.arksigner.comfilesArkSigner-Installer-StandardUser-v2.2.14.exe
+    },
+    {
+        icon iconsicon8.png,
+        text Çeviri Sözlük (deepl),
+        link httpswww.deepl.com
+    },
+    {
+        icon iconsicon9.png,
+        text PDF Küçültme Dönüştürme,
+        link httpswww.ilovepdf.com
+    },
+    {
+        icon iconsicon10.png,
+        text Uzaktan Yardım (AnyDesk),
+        link httpsanydesk.comtrdownloadsthank-youdv=win_exe
+    },
+    {
+        icon iconsicon11.png,
+        text EBYS Eğitim,
+        link httpsuzem.belediye.gov.trloginindex.php
+    },
+    {
+        icon iconsicon12.png,
+        text Web Sitemiz,
+        link httpswww.artuklu.bel.tr
+    }
+]
