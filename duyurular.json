@@ -1,4 +1,9 @@
 [
+      {
+        "title": "Deneme Gönderi ",
+        "message": "Merhaba Belediye :).",
+        "link": "https://www.com"
+    },
     {
         "title": "Yaz Saati Uygulaması",
         "message": "01 Eylül itibariyle kurum bilgisayarları saatlerini güncelleyiniz.",
@@ -9,4 +14,5 @@
         "message": "EBYS sistemi 10:00-12:00 saatleri arasında bakım nedeniyle kapalı olacaktır.",
         "link": "https://ebysweb.belediye.gov.tr/duyurular/bakim"
     }
+
 ]
